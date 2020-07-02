@@ -1,0 +1,19 @@
+.Todo{
+    background-color: white;
+    min-height: 500px;
+    width: 500px;
+    margin:40px auto;
+}
+.Todo li{
+    border: black;
+    width: 200px;
+    position: center;  
+}
+.Todo input{
+    width:300px;
+    background-color:white;
+    position: relative;
+    border-color: black;
+}
+
+    
